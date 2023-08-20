@@ -27,9 +27,7 @@ class Calculator {
         return a * b;
     }
 
-    priv
-
-ate int minus(int a, int b) {
+    private int minus(int a, int b) {
         return a - b;
     }
 
